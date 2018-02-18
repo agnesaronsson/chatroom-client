@@ -1,5 +1,4 @@
-package streamSockets;
-
+/*@author Agnes Aronsson [agar3573]*/
 import java.io.*;
 import java.net.*;
 
