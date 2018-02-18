@@ -1,6 +1,4 @@
 /*@author Agnes Aronsson [agar3573]*/
-package streamSockets;
-
 import java.io.*;
 import java.net.*;
 import java.awt.*;
